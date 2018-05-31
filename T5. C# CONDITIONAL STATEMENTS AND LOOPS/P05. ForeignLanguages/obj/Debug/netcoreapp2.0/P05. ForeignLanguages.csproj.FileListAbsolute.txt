@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P05. ForeignLanguages\bin\Debug\netcoreapp2.0\P05. ForeignLanguages.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P05. ForeignLanguages\bin\Debug\netcoreapp2.0\P05. ForeignLanguages.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P05. ForeignLanguages\bin\Debug\netcoreapp2.0\P05. ForeignLanguages.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P05. ForeignLanguages\bin\Debug\netcoreapp2.0\P05. ForeignLanguages.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P05. ForeignLanguages\bin\Debug\netcoreapp2.0\P05. ForeignLanguages.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P05. ForeignLanguages\obj\Debug\netcoreapp2.0\P05. ForeignLanguages.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P05. ForeignLanguages\obj\Debug\netcoreapp2.0\P05. ForeignLanguages.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P05. ForeignLanguages\obj\Debug\netcoreapp2.0\P05. ForeignLanguages.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P05. ForeignLanguages\obj\Debug\netcoreapp2.0\P05. ForeignLanguages.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P05. ForeignLanguages\obj\Debug\netcoreapp2.0\P05. ForeignLanguages.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P05. ForeignLanguages\obj\Debug\netcoreapp2.0\P05. ForeignLanguages.pdb

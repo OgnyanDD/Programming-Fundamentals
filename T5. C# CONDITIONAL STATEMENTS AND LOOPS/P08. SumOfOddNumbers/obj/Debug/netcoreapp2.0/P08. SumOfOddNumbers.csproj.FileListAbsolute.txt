@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P08. SumOfOddNumbers\bin\Debug\netcoreapp2.0\P08. SumOfOddNumbers.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P08. SumOfOddNumbers\bin\Debug\netcoreapp2.0\P08. SumOfOddNumbers.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P08. SumOfOddNumbers\bin\Debug\netcoreapp2.0\P08. SumOfOddNumbers.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P08. SumOfOddNumbers\bin\Debug\netcoreapp2.0\P08. SumOfOddNumbers.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P08. SumOfOddNumbers\bin\Debug\netcoreapp2.0\P08. SumOfOddNumbers.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P08. SumOfOddNumbers\obj\Debug\netcoreapp2.0\P08. SumOfOddNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P08. SumOfOddNumbers\obj\Debug\netcoreapp2.0\P08. SumOfOddNumbers.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P08. SumOfOddNumbers\obj\Debug\netcoreapp2.0\P08. SumOfOddNumbers.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P08. SumOfOddNumbers\obj\Debug\netcoreapp2.0\P08. SumOfOddNumbers.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\05. CSharp COND STATEMENTS AND LOOPS\P08. SumOfOddNumbers\obj\Debug\netcoreapp2.0\P08. SumOfOddNumbers.pdb
