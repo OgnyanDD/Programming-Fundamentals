@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P08.CenterPoint\bin\Debug\netcoreapp2.0\P08.CenterPoint.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P08.CenterPoint\bin\Debug\netcoreapp2.0\P08.CenterPoint.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P08.CenterPoint\bin\Debug\netcoreapp2.0\P08.CenterPoint.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P08.CenterPoint\bin\Debug\netcoreapp2.0\P08.CenterPoint.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P08.CenterPoint\bin\Debug\netcoreapp2.0\P08.CenterPoint.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P08.CenterPoint\obj\Debug\netcoreapp2.0\P08.CenterPoint.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P08.CenterPoint\obj\Debug\netcoreapp2.0\P08.CenterPoint.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P08.CenterPoint\obj\Debug\netcoreapp2.0\P08.CenterPoint.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P08.CenterPoint\obj\Debug\netcoreapp2.0\P08.CenterPoint.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P08.CenterPoint\obj\Debug\netcoreapp2.0\P08.CenterPoint.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P08.CenterPoint\obj\Debug\netcoreapp2.0\P08.CenterPoint.pdb

@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P05.FibonacciNumbers\bin\Debug\netcoreapp2.0\P05.FibonacciNumbers.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P05.FibonacciNumbers\bin\Debug\netcoreapp2.0\P05.FibonacciNumbers.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P05.FibonacciNumbers\bin\Debug\netcoreapp2.0\P05.FibonacciNumbers.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P05.FibonacciNumbers\bin\Debug\netcoreapp2.0\P05.FibonacciNumbers.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P05.FibonacciNumbers\bin\Debug\netcoreapp2.0\P05.FibonacciNumbers.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P05.FibonacciNumbers\obj\Debug\netcoreapp2.0\P05.FibonacciNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P05.FibonacciNumbers\obj\Debug\netcoreapp2.0\P05.FibonacciNumbers.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P05.FibonacciNumbers\obj\Debug\netcoreapp2.0\P05.FibonacciNumbers.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P05.FibonacciNumbers\obj\Debug\netcoreapp2.0\P05.FibonacciNumbers.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P05.FibonacciNumbers\obj\Debug\netcoreapp2.0\P05.FibonacciNumbers.pdb

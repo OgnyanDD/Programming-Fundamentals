@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P07.PrimesInGivenRange\bin\Debug\netcoreapp2.0\P07.PrimesInGivenRange.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P07.PrimesInGivenRange\bin\Debug\netcoreapp2.0\P07.PrimesInGivenRange.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P07.PrimesInGivenRange\bin\Debug\netcoreapp2.0\P07.PrimesInGivenRange.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P07.PrimesInGivenRange\bin\Debug\netcoreapp2.0\P07.PrimesInGivenRange.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P07.PrimesInGivenRange\bin\Debug\netcoreapp2.0\P07.PrimesInGivenRange.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P07.PrimesInGivenRange\obj\Debug\netcoreapp2.0\P07.PrimesInGivenRange.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P07.PrimesInGivenRange\obj\Debug\netcoreapp2.0\P07.PrimesInGivenRange.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P07.PrimesInGivenRange\obj\Debug\netcoreapp2.0\P07.PrimesInGivenRange.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P07.PrimesInGivenRange\obj\Debug\netcoreapp2.0\P07.PrimesInGivenRange.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P07.PrimesInGivenRange\obj\Debug\netcoreapp2.0\P07.PrimesInGivenRange.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P07.PrimesInGivenRange\obj\Debug\netcoreapp2.0\P07.PrimesInGivenRange.pdb

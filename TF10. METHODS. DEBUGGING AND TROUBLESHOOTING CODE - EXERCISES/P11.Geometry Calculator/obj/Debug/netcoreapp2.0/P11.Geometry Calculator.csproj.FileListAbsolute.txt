@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P11.Geometry Calculator\bin\Debug\netcoreapp2.0\P11.Geometry Calculator.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P11.Geometry Calculator\bin\Debug\netcoreapp2.0\P11.Geometry Calculator.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P11.Geometry Calculator\bin\Debug\netcoreapp2.0\P11.Geometry Calculator.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P11.Geometry Calculator\bin\Debug\netcoreapp2.0\P11.Geometry Calculator.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P11.Geometry Calculator\bin\Debug\netcoreapp2.0\P11.Geometry Calculator.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P11.Geometry Calculator\obj\Debug\netcoreapp2.0\P11.Geometry Calculator.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P11.Geometry Calculator\obj\Debug\netcoreapp2.0\P11.Geometry Calculator.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P11.Geometry Calculator\obj\Debug\netcoreapp2.0\P11.Geometry Calculator.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P11.Geometry Calculator\obj\Debug\netcoreapp2.0\P11.Geometry Calculator.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P11.Geometry Calculator\obj\Debug\netcoreapp2.0\P11.Geometry Calculator.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P11.Geometry Calculator\obj\Debug\netcoreapp2.0\P11.Geometry Calculator.pdb
