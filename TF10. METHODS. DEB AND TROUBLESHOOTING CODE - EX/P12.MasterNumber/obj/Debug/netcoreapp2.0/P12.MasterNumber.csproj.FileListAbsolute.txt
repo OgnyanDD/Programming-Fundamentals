@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P12.MasterNumber\bin\Debug\netcoreapp2.0\P12.MasterNumber.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P12.MasterNumber\bin\Debug\netcoreapp2.0\P12.MasterNumber.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P12.MasterNumber\bin\Debug\netcoreapp2.0\P12.MasterNumber.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P12.MasterNumber\bin\Debug\netcoreapp2.0\P12.MasterNumber.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P12.MasterNumber\bin\Debug\netcoreapp2.0\P12.MasterNumber.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P12.MasterNumber\obj\Debug\netcoreapp2.0\P12.MasterNumber.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P12.MasterNumber\obj\Debug\netcoreapp2.0\P12.MasterNumber.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P12.MasterNumber\obj\Debug\netcoreapp2.0\P12.MasterNumber.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P12.MasterNumber\obj\Debug\netcoreapp2.0\P12.MasterNumber.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P12.MasterNumber\obj\Debug\netcoreapp2.0\P12.MasterNumber.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P12.MasterNumber\obj\Debug\netcoreapp2.0\P12.MasterNumber.pdb

@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P01.Hello, Name!\bin\Debug\netcoreapp2.0\P01.Hello, Name!.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P01.Hello, Name!\bin\Debug\netcoreapp2.0\P01.Hello, Name!.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P01.Hello, Name!\bin\Debug\netcoreapp2.0\P01.Hello, Name!.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P01.Hello, Name!\bin\Debug\netcoreapp2.0\P01.Hello, Name!.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P01.Hello, Name!\bin\Debug\netcoreapp2.0\P01.Hello, Name!.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P01.Hello, Name!\obj\Debug\netcoreapp2.0\P01.Hello, Name!.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P01.Hello, Name!\obj\Debug\netcoreapp2.0\P01.Hello, Name!.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P01.Hello, Name!\obj\Debug\netcoreapp2.0\P01.Hello, Name!.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P01.Hello, Name!\obj\Debug\netcoreapp2.0\P01.Hello, Name!.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P01.Hello, Name!\obj\Debug\netcoreapp2.0\P01.Hello, Name!.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P01.Hello, Name!\obj\Debug\netcoreapp2.0\P01.Hello, Name!.pdb

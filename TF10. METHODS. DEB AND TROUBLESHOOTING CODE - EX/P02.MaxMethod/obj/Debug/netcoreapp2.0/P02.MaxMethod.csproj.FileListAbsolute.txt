@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P02.MaxMethod\bin\Debug\netcoreapp2.0\P02.MaxMethod.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P02.MaxMethod\bin\Debug\netcoreapp2.0\P02.MaxMethod.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P02.MaxMethod\bin\Debug\netcoreapp2.0\P02.MaxMethod.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P02.MaxMethod\bin\Debug\netcoreapp2.0\P02.MaxMethod.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P02.MaxMethod\bin\Debug\netcoreapp2.0\P02.MaxMethod.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P02.MaxMethod\obj\Debug\netcoreapp2.0\P02.MaxMethod.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P02.MaxMethod\obj\Debug\netcoreapp2.0\P02.MaxMethod.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P02.MaxMethod\obj\Debug\netcoreapp2.0\P02.MaxMethod.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P02.MaxMethod\obj\Debug\netcoreapp2.0\P02.MaxMethod.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P02.MaxMethod\obj\Debug\netcoreapp2.0\P02.MaxMethod.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P02.MaxMethod\obj\Debug\netcoreapp2.0\P02.MaxMethod.pdb
