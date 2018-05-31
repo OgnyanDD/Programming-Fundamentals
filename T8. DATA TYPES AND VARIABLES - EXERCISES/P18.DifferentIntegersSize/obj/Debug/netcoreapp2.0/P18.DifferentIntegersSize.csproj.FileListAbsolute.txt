@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P18.DifferentIntegersSize\bin\Debug\netcoreapp2.0\P18.DifferentIntegersSize.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P18.DifferentIntegersSize\bin\Debug\netcoreapp2.0\P18.DifferentIntegersSize.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P18.DifferentIntegersSize\bin\Debug\netcoreapp2.0\P18.DifferentIntegersSize.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P18.DifferentIntegersSize\bin\Debug\netcoreapp2.0\P18.DifferentIntegersSize.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P18.DifferentIntegersSize\bin\Debug\netcoreapp2.0\P18.DifferentIntegersSize.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P18.DifferentIntegersSize\obj\Debug\netcoreapp2.0\P18.DifferentIntegersSize.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P18.DifferentIntegersSize\obj\Debug\netcoreapp2.0\P18.DifferentIntegersSize.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P18.DifferentIntegersSize\obj\Debug\netcoreapp2.0\P18.DifferentIntegersSize.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P18.DifferentIntegersSize\obj\Debug\netcoreapp2.0\P18.DifferentIntegersSize.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P18.DifferentIntegersSize\obj\Debug\netcoreapp2.0\P18.DifferentIntegersSize.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P18.DifferentIntegersSize\obj\Debug\netcoreapp2.0\P18.DifferentIntegersSize.csprojAssemblyReference.cache

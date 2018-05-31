@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P09.ReversedChars\bin\Debug\netcoreapp2.0\P09.ReversedChars.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P09.ReversedChars\bin\Debug\netcoreapp2.0\P09.ReversedChars.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P09.ReversedChars\bin\Debug\netcoreapp2.0\P09.ReversedChars.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P09.ReversedChars\bin\Debug\netcoreapp2.0\P09.ReversedChars.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P09.ReversedChars\bin\Debug\netcoreapp2.0\P09.ReversedChars.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P09.ReversedChars\obj\Debug\netcoreapp2.0\P09.ReversedChars.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P09.ReversedChars\obj\Debug\netcoreapp2.0\P09.ReversedChars.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P09.ReversedChars\obj\Debug\netcoreapp2.0\P09.ReversedChars.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P09.ReversedChars\obj\Debug\netcoreapp2.0\P09.ReversedChars.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P09.ReversedChars\obj\Debug\netcoreapp2.0\P09.ReversedChars.pdb

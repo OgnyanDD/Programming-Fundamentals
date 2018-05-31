@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P14.IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\P14.IntegerToHexAndBinary.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P14.IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\P14.IntegerToHexAndBinary.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P14.IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\P14.IntegerToHexAndBinary.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P14.IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\P14.IntegerToHexAndBinary.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P14.IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\P14.IntegerToHexAndBinary.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P14.IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\P14.IntegerToHexAndBinary.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P14.IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\P14.IntegerToHexAndBinary.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P14.IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\P14.IntegerToHexAndBinary.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P14.IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\P14.IntegerToHexAndBinary.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P14.IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\P14.IntegerToHexAndBinary.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P14.IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\P14.IntegerToHexAndBinary.pdb

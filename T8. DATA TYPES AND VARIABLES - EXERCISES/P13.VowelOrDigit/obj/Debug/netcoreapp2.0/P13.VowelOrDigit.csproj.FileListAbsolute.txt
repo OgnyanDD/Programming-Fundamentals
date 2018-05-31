@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P13.VowelOrDigit\bin\Debug\netcoreapp2.0\P13.VowelOrDigit.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P13.VowelOrDigit\bin\Debug\netcoreapp2.0\P13.VowelOrDigit.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P13.VowelOrDigit\bin\Debug\netcoreapp2.0\P13.VowelOrDigit.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P13.VowelOrDigit\bin\Debug\netcoreapp2.0\P13.VowelOrDigit.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P13.VowelOrDigit\bin\Debug\netcoreapp2.0\P13.VowelOrDigit.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P13.VowelOrDigit\obj\Debug\netcoreapp2.0\P13.VowelOrDigit.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P13.VowelOrDigit\obj\Debug\netcoreapp2.0\P13.VowelOrDigit.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P13.VowelOrDigit\obj\Debug\netcoreapp2.0\P13.VowelOrDigit.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P13.VowelOrDigit\obj\Debug\netcoreapp2.0\P13.VowelOrDigit.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P13.VowelOrDigit\obj\Debug\netcoreapp2.0\P13.VowelOrDigit.pdb

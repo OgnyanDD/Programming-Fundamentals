@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P01.PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\P01.PracticeIntegerNumbers.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P01.PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\P01.PracticeIntegerNumbers.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P01.PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\P01.PracticeIntegerNumbers.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P01.PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\P01.PracticeIntegerNumbers.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P01.PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\P01.PracticeIntegerNumbers.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P01.PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\P01.PracticeIntegerNumbers.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P01.PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\P01.PracticeIntegerNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P01.PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\P01.PracticeIntegerNumbers.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P01.PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\P01.PracticeIntegerNumbers.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P01.PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\P01.PracticeIntegerNumbers.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P01.PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\P01.PracticeIntegerNumbers.pdb

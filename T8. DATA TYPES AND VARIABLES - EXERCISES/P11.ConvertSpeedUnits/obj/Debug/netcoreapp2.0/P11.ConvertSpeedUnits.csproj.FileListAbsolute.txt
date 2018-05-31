@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P11.ConvertSpeedUnits\bin\Debug\netcoreapp2.0\P11.ConvertSpeedUnits.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P11.ConvertSpeedUnits\bin\Debug\netcoreapp2.0\P11.ConvertSpeedUnits.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P11.ConvertSpeedUnits\bin\Debug\netcoreapp2.0\P11.ConvertSpeedUnits.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P11.ConvertSpeedUnits\bin\Debug\netcoreapp2.0\P11.ConvertSpeedUnits.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P11.ConvertSpeedUnits\bin\Debug\netcoreapp2.0\P11.ConvertSpeedUnits.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P11.ConvertSpeedUnits\obj\Debug\netcoreapp2.0\P11.ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P11.ConvertSpeedUnits\obj\Debug\netcoreapp2.0\P11.ConvertSpeedUnits.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P11.ConvertSpeedUnits\obj\Debug\netcoreapp2.0\P11.ConvertSpeedUnits.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P11.ConvertSpeedUnits\obj\Debug\netcoreapp2.0\P11.ConvertSpeedUnits.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P11.ConvertSpeedUnits\obj\Debug\netcoreapp2.0\P11.ConvertSpeedUnits.pdb

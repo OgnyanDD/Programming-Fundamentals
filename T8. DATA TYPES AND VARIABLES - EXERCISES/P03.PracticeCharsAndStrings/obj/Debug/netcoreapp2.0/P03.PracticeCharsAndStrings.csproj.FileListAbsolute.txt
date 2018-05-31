@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P03.PracticeCharsAndStrings\bin\Debug\netcoreapp2.0\P03.PracticeCharsAndStrings.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P03.PracticeCharsAndStrings\bin\Debug\netcoreapp2.0\P03.PracticeCharsAndStrings.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P03.PracticeCharsAndStrings\bin\Debug\netcoreapp2.0\P03.PracticeCharsAndStrings.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P03.PracticeCharsAndStrings\bin\Debug\netcoreapp2.0\P03.PracticeCharsAndStrings.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P03.PracticeCharsAndStrings\bin\Debug\netcoreapp2.0\P03.PracticeCharsAndStrings.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P03.PracticeCharsAndStrings\obj\Debug\netcoreapp2.0\P03.PracticeCharsAndStrings.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P03.PracticeCharsAndStrings\obj\Debug\netcoreapp2.0\P03.PracticeCharsAndStrings.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P03.PracticeCharsAndStrings\obj\Debug\netcoreapp2.0\P03.PracticeCharsAndStrings.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P03.PracticeCharsAndStrings\obj\Debug\netcoreapp2.0\P03.PracticeCharsAndStrings.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\08. DATA TYPES AND VARIABLES-EXERCISES\P03.PracticeCharsAndStrings\obj\Debug\netcoreapp2.0\P03.PracticeCharsAndStrings.pdb
