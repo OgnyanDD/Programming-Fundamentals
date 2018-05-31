@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P10.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\P10.HolidaysBetweenTwoDates.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P10.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\P10.HolidaysBetweenTwoDates.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P10.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\P10.HolidaysBetweenTwoDates.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P10.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\P10.HolidaysBetweenTwoDates.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P10.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\P10.HolidaysBetweenTwoDates.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P10.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\P10.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P10.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\P10.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P10.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\P10.HolidaysBetweenTwoDates.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P10.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\P10.HolidaysBetweenTwoDates.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P10.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\P10.HolidaysBetweenTwoDates.pdb

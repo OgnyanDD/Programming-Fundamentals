@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P02.SignOfIntegerNumber\bin\Debug\netcoreapp2.0\P02.SignOfIntegerNumber.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P02.SignOfIntegerNumber\bin\Debug\netcoreapp2.0\P02.SignOfIntegerNumber.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P02.SignOfIntegerNumber\bin\Debug\netcoreapp2.0\P02.SignOfIntegerNumber.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P02.SignOfIntegerNumber\bin\Debug\netcoreapp2.0\P02.SignOfIntegerNumber.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P02.SignOfIntegerNumber\bin\Debug\netcoreapp2.0\P02.SignOfIntegerNumber.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P02.SignOfIntegerNumber\obj\Debug\netcoreapp2.0\P02.SignOfIntegerNumber.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P02.SignOfIntegerNumber\obj\Debug\netcoreapp2.0\P02.SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P02.SignOfIntegerNumber\obj\Debug\netcoreapp2.0\P02.SignOfIntegerNumber.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P02.SignOfIntegerNumber\obj\Debug\netcoreapp2.0\P02.SignOfIntegerNumber.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P02.SignOfIntegerNumber\obj\Debug\netcoreapp2.0\P02.SignOfIntegerNumber.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P02.SignOfIntegerNumber\obj\Debug\netcoreapp2.0\P02.SignOfIntegerNumber.pdb

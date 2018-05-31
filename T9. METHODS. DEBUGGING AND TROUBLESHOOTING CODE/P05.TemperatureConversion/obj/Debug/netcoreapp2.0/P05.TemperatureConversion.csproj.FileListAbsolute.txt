@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P05.TemperatureConversion\bin\Debug\netcoreapp2.0\P05.TemperatureConversion.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P05.TemperatureConversion\bin\Debug\netcoreapp2.0\P05.TemperatureConversion.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P05.TemperatureConversion\bin\Debug\netcoreapp2.0\P05.TemperatureConversion.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P05.TemperatureConversion\bin\Debug\netcoreapp2.0\P05.TemperatureConversion.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P05.TemperatureConversion\bin\Debug\netcoreapp2.0\P05.TemperatureConversion.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P05.TemperatureConversion\obj\Debug\netcoreapp2.0\P05.TemperatureConversion.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P05.TemperatureConversion\obj\Debug\netcoreapp2.0\P05.TemperatureConversion.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P05.TemperatureConversion\obj\Debug\netcoreapp2.0\P05.TemperatureConversion.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P05.TemperatureConversion\obj\Debug\netcoreapp2.0\P05.TemperatureConversion.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P05.TemperatureConversion\obj\Debug\netcoreapp2.0\P05.TemperatureConversion.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P05.TemperatureConversion\obj\Debug\netcoreapp2.0\P05.TemperatureConversion.pdb

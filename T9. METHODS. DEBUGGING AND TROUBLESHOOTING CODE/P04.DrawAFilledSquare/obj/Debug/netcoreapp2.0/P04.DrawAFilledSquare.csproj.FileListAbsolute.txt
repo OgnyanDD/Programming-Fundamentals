@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P04.DrawAFilledSquare\bin\Debug\netcoreapp2.0\P04.DrawAFilledSquare.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P04.DrawAFilledSquare\bin\Debug\netcoreapp2.0\P04.DrawAFilledSquare.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P04.DrawAFilledSquare\bin\Debug\netcoreapp2.0\P04.DrawAFilledSquare.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P04.DrawAFilledSquare\bin\Debug\netcoreapp2.0\P04.DrawAFilledSquare.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P04.DrawAFilledSquare\bin\Debug\netcoreapp2.0\P04.DrawAFilledSquare.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P04.DrawAFilledSquare\obj\Debug\netcoreapp2.0\P04.DrawAFilledSquare.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P04.DrawAFilledSquare\obj\Debug\netcoreapp2.0\P04.DrawAFilledSquare.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P04.DrawAFilledSquare\obj\Debug\netcoreapp2.0\P04.DrawAFilledSquare.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P04.DrawAFilledSquare\obj\Debug\netcoreapp2.0\P04.DrawAFilledSquare.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P04.DrawAFilledSquare\obj\Debug\netcoreapp2.0\P04.DrawAFilledSquare.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P04.DrawAFilledSquare\obj\Debug\netcoreapp2.0\P04.DrawAFilledSquare.pdb

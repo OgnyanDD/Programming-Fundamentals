@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P01.BlankReceipt\bin\Debug\netcoreapp2.0\P01.BlankReceipt.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P01.BlankReceipt\bin\Debug\netcoreapp2.0\P01.BlankReceipt.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P01.BlankReceipt\bin\Debug\netcoreapp2.0\P01.BlankReceipt.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P01.BlankReceipt\bin\Debug\netcoreapp2.0\P01.BlankReceipt.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P01.BlankReceipt\bin\Debug\netcoreapp2.0\P01.BlankReceipt.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P01.BlankReceipt\obj\Debug\netcoreapp2.0\P01.BlankReceipt.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P01.BlankReceipt\obj\Debug\netcoreapp2.0\P01.BlankReceipt.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P01.BlankReceipt\obj\Debug\netcoreapp2.0\P01.BlankReceipt.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P01.BlankReceipt\obj\Debug\netcoreapp2.0\P01.BlankReceipt.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P01.BlankReceipt\obj\Debug\netcoreapp2.0\P01.BlankReceipt.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P01.BlankReceipt\obj\Debug\netcoreapp2.0\P01.BlankReceipt.pdb

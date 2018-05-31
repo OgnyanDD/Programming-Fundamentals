@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P11.PriceChangeAlert\bin\Debug\netcoreapp2.0\P11.PriceChangeAlert.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P11.PriceChangeAlert\bin\Debug\netcoreapp2.0\P11.PriceChangeAlert.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P11.PriceChangeAlert\bin\Debug\netcoreapp2.0\P11.PriceChangeAlert.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P11.PriceChangeAlert\bin\Debug\netcoreapp2.0\P11.PriceChangeAlert.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P11.PriceChangeAlert\bin\Debug\netcoreapp2.0\P11.PriceChangeAlert.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P11.PriceChangeAlert\obj\Debug\netcoreapp2.0\P11.PriceChangeAlert.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P11.PriceChangeAlert\obj\Debug\netcoreapp2.0\P11.PriceChangeAlert.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P11.PriceChangeAlert\obj\Debug\netcoreapp2.0\P11.PriceChangeAlert.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P11.PriceChangeAlert\obj\Debug\netcoreapp2.0\P11.PriceChangeAlert.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P11.PriceChangeAlert\obj\Debug\netcoreapp2.0\P11.PriceChangeAlert.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\09. MTH. DEB AND TROUBLESHOOTING CODE\P11.PriceChangeAlert\obj\Debug\netcoreapp2.0\P11.PriceChangeAlert.pdb
