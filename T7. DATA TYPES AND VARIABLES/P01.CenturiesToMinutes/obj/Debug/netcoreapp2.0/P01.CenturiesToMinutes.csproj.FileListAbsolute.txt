@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P01.CenturiesToMinutes\bin\Debug\netcoreapp2.0\P01.CenturiesToMinutes.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P01.CenturiesToMinutes\bin\Debug\netcoreapp2.0\P01.CenturiesToMinutes.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P01.CenturiesToMinutes\bin\Debug\netcoreapp2.0\P01.CenturiesToMinutes.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P01.CenturiesToMinutes\bin\Debug\netcoreapp2.0\P01.CenturiesToMinutes.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P01.CenturiesToMinutes\bin\Debug\netcoreapp2.0\P01.CenturiesToMinutes.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P01.CenturiesToMinutes\obj\Debug\netcoreapp2.0\P01.CenturiesToMinutes.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P01.CenturiesToMinutes\obj\Debug\netcoreapp2.0\P01.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P01.CenturiesToMinutes\obj\Debug\netcoreapp2.0\P01.CenturiesToMinutes.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P01.CenturiesToMinutes\obj\Debug\netcoreapp2.0\P01.CenturiesToMinutes.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P01.CenturiesToMinutes\obj\Debug\netcoreapp2.0\P01.CenturiesToMinutes.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P01.CenturiesToMinutes\obj\Debug\netcoreapp2.0\P01.CenturiesToMinutes.pdb

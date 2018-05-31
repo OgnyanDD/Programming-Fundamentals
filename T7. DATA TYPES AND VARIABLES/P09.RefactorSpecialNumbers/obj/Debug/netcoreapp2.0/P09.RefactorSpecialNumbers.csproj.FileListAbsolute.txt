@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P09.RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\P09.RefactorSpecialNumbers.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P09.RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\P09.RefactorSpecialNumbers.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P09.RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\P09.RefactorSpecialNumbers.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P09.RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\P09.RefactorSpecialNumbers.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P09.RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\P09.RefactorSpecialNumbers.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P09.RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\P09.RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P09.RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\P09.RefactorSpecialNumbers.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P09.RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\P09.RefactorSpecialNumbers.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P09.RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\P09.RefactorSpecialNumbers.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P09.RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\P09.RefactorSpecialNumbers.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\07. DATA TYPES AND VARIABLES\P09.RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\P09.RefactorSpecialNumbers.csprojAssemblyReference.cache
