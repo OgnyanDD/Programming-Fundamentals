@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\04. CSharp BASIC SYNTAX - EXERCISES\P05. CharacterStats\bin\Debug\netcoreapp2.0\P05. CharacterStats.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\04. CSharp BASIC SYNTAX - EXERCISES\P05. CharacterStats\bin\Debug\netcoreapp2.0\P05. CharacterStats.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\04. CSharp BASIC SYNTAX - EXERCISES\P05. CharacterStats\bin\Debug\netcoreapp2.0\P05. CharacterStats.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\04. CSharp BASIC SYNTAX - EXERCISES\P05. CharacterStats\bin\Debug\netcoreapp2.0\P05. CharacterStats.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\04. CSharp BASIC SYNTAX - EXERCISES\P05. CharacterStats\bin\Debug\netcoreapp2.0\P05. CharacterStats.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\04. CSharp BASIC SYNTAX - EXERCISES\P05. CharacterStats\obj\Debug\netcoreapp2.0\P05. CharacterStats.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\04. CSharp BASIC SYNTAX - EXERCISES\P05. CharacterStats\obj\Debug\netcoreapp2.0\P05. CharacterStats.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\04. CSharp BASIC SYNTAX - EXERCISES\P05. CharacterStats\obj\Debug\netcoreapp2.0\P05. CharacterStats.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\04. CSharp BASIC SYNTAX - EXERCISES\P05. CharacterStats\obj\Debug\netcoreapp2.0\P05. CharacterStats.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\04. CSharp BASIC SYNTAX - EXERCISES\P05. CharacterStats\obj\Debug\netcoreapp2.0\P05. CharacterStats.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\04. CSharp BASIC SYNTAX - EXERCISES\P05. CharacterStats\obj\Debug\netcoreapp2.0\P05. CharacterStats.pdb
