@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\06. C COND STATEMENTS AND LOOPS ex\P03. RestaurantDiscount\bin\Debug\netcoreapp2.0\P03. RestaurantDiscount.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\06. C COND STATEMENTS AND LOOPS ex\P03. RestaurantDiscount\bin\Debug\netcoreapp2.0\P03. RestaurantDiscount.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\06. C COND STATEMENTS AND LOOPS ex\P03. RestaurantDiscount\bin\Debug\netcoreapp2.0\P03. RestaurantDiscount.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\06. C COND STATEMENTS AND LOOPS ex\P03. RestaurantDiscount\bin\Debug\netcoreapp2.0\P03. RestaurantDiscount.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\06. C COND STATEMENTS AND LOOPS ex\P03. RestaurantDiscount\bin\Debug\netcoreapp2.0\P03. RestaurantDiscount.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\06. C COND STATEMENTS AND LOOPS ex\P03. RestaurantDiscount\obj\Debug\netcoreapp2.0\P03. RestaurantDiscount.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\06. C COND STATEMENTS AND LOOPS ex\P03. RestaurantDiscount\obj\Debug\netcoreapp2.0\P03. RestaurantDiscount.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\06. C COND STATEMENTS AND LOOPS ex\P03. RestaurantDiscount\obj\Debug\netcoreapp2.0\P03. RestaurantDiscount.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\06. C COND STATEMENTS AND LOOPS ex\P03. RestaurantDiscount\obj\Debug\netcoreapp2.0\P03. RestaurantDiscount.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\06. C COND STATEMENTS AND LOOPS ex\P03. RestaurantDiscount\obj\Debug\netcoreapp2.0\P03. RestaurantDiscount.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\06. C COND STATEMENTS AND LOOPS ex\P03. RestaurantDiscount\obj\Debug\netcoreapp2.0\P03. RestaurantDiscount.pdb
