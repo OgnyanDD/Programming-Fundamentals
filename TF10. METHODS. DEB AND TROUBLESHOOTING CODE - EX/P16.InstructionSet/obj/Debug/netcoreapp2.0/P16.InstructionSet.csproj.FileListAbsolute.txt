@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P16.InstructionSet\bin\Debug\netcoreapp2.0\P16.InstructionSet.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P16.InstructionSet\bin\Debug\netcoreapp2.0\P16.InstructionSet.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P16.InstructionSet\bin\Debug\netcoreapp2.0\P16.InstructionSet.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P16.InstructionSet\bin\Debug\netcoreapp2.0\P16.InstructionSet.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P16.InstructionSet\bin\Debug\netcoreapp2.0\P16.InstructionSet.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P16.InstructionSet\obj\Debug\netcoreapp2.0\P16.InstructionSet.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P16.InstructionSet\obj\Debug\netcoreapp2.0\P16.InstructionSet.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P16.InstructionSet\obj\Debug\netcoreapp2.0\P16.InstructionSet.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P16.InstructionSet\obj\Debug\netcoreapp2.0\P16.InstructionSet.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\10. Meth Deb and Troublesh Code - Ex\P16.InstructionSet\obj\Debug\netcoreapp2.0\P16.InstructionSet.pdb
