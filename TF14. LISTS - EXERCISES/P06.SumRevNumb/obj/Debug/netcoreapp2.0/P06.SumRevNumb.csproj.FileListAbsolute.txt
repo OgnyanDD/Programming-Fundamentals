@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P06.SumRevNumb\bin\Debug\netcoreapp2.0\P06.SumRevNumb.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P06.SumRevNumb\bin\Debug\netcoreapp2.0\P06.SumRevNumb.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P06.SumRevNumb\bin\Debug\netcoreapp2.0\P06.SumRevNumb.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P06.SumRevNumb\bin\Debug\netcoreapp2.0\P06.SumRevNumb.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P06.SumRevNumb\bin\Debug\netcoreapp2.0\P06.SumRevNumb.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P06.SumRevNumb\obj\Debug\netcoreapp2.0\P06.SumRevNumb.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P06.SumRevNumb\obj\Debug\netcoreapp2.0\P06.SumRevNumb.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P06.SumRevNumb\obj\Debug\netcoreapp2.0\P06.SumRevNumb.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P06.SumRevNumb\obj\Debug\netcoreapp2.0\P06.SumRevNumb.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P06.SumRevNumb\obj\Debug\netcoreapp2.0\P06.SumRevNumb.pdb
