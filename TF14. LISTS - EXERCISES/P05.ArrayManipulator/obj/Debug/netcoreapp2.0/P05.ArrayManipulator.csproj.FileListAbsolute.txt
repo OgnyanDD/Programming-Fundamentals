@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P05.ArrayManipulator\bin\Debug\netcoreapp2.0\P05.ArrayManipulator.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P05.ArrayManipulator\bin\Debug\netcoreapp2.0\P05.ArrayManipulator.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P05.ArrayManipulator\bin\Debug\netcoreapp2.0\P05.ArrayManipulator.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P05.ArrayManipulator\bin\Debug\netcoreapp2.0\P05.ArrayManipulator.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P05.ArrayManipulator\bin\Debug\netcoreapp2.0\P05.ArrayManipulator.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P05.ArrayManipulator\obj\Debug\netcoreapp2.0\P05.ArrayManipulator.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P05.ArrayManipulator\obj\Debug\netcoreapp2.0\P05.ArrayManipulator.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P05.ArrayManipulator\obj\Debug\netcoreapp2.0\P05.ArrayManipulator.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P05.ArrayManipulator\obj\Debug\netcoreapp2.0\P05.ArrayManipulator.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P05.ArrayManipulator\obj\Debug\netcoreapp2.0\P05.ArrayManipulator.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P05.ArrayManipulator\obj\Debug\netcoreapp2.0\P05.ArrayManipulator.pdb

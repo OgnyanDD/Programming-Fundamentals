@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P01.MaxSeqOfEqEl\bin\Debug\netcoreapp2.0\P01.MaxSeqOfEqEl.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P01.MaxSeqOfEqEl\bin\Debug\netcoreapp2.0\P01.MaxSeqOfEqEl.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P01.MaxSeqOfEqEl\bin\Debug\netcoreapp2.0\P01.MaxSeqOfEqEl.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P01.MaxSeqOfEqEl\bin\Debug\netcoreapp2.0\P01.MaxSeqOfEqEl.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P01.MaxSeqOfEqEl\bin\Debug\netcoreapp2.0\P01.MaxSeqOfEqEl.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P01.MaxSeqOfEqEl\obj\Debug\netcoreapp2.0\P01.MaxSeqOfEqEl.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P01.MaxSeqOfEqEl\obj\Debug\netcoreapp2.0\P01.MaxSeqOfEqEl.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P01.MaxSeqOfEqEl\obj\Debug\netcoreapp2.0\P01.MaxSeqOfEqEl.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P01.MaxSeqOfEqEl\obj\Debug\netcoreapp2.0\P01.MaxSeqOfEqEl.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P01.MaxSeqOfEqEl\obj\Debug\netcoreapp2.0\P01.MaxSeqOfEqEl.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\14. LISTS - EXERCISES\P01.MaxSeqOfEqEl\obj\Debug\netcoreapp2.0\P01.MaxSeqOfEqEl.pdb
