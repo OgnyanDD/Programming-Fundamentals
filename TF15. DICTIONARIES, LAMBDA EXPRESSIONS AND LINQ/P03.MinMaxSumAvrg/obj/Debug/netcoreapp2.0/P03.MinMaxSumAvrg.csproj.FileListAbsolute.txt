@@ -1,0 +1,11 @@
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P03.MinMaxSumAvrg\bin\Debug\netcoreapp2.0\P03.MinMaxSumAvrg.deps.json
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P03.MinMaxSumAvrg\bin\Debug\netcoreapp2.0\P03.MinMaxSumAvrg.runtimeconfig.json
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P03.MinMaxSumAvrg\bin\Debug\netcoreapp2.0\P03.MinMaxSumAvrg.runtimeconfig.dev.json
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P03.MinMaxSumAvrg\bin\Debug\netcoreapp2.0\P03.MinMaxSumAvrg.dll
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P03.MinMaxSumAvrg\bin\Debug\netcoreapp2.0\P03.MinMaxSumAvrg.pdb
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P03.MinMaxSumAvrg\obj\Debug\netcoreapp2.0\P03.MinMaxSumAvrg.csprojAssemblyReference.cache
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P03.MinMaxSumAvrg\obj\Debug\netcoreapp2.0\P03.MinMaxSumAvrg.csproj.CoreCompileInputs.cache
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P03.MinMaxSumAvrg\obj\Debug\netcoreapp2.0\P03.MinMaxSumAvrg.AssemblyInfoInputs.cache
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P03.MinMaxSumAvrg\obj\Debug\netcoreapp2.0\P03.MinMaxSumAvrg.AssemblyInfo.cs
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P03.MinMaxSumAvrg\obj\Debug\netcoreapp2.0\P03.MinMaxSumAvrg.dll
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P03.MinMaxSumAvrg\obj\Debug\netcoreapp2.0\P03.MinMaxSumAvrg.pdb

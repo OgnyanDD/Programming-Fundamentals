@@ -1,0 +1,11 @@
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P01.CountRealNumbers\bin\Debug\netcoreapp2.0\P01.CountRealNumbers.deps.json
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P01.CountRealNumbers\bin\Debug\netcoreapp2.0\P01.CountRealNumbers.runtimeconfig.json
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P01.CountRealNumbers\bin\Debug\netcoreapp2.0\P01.CountRealNumbers.runtimeconfig.dev.json
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P01.CountRealNumbers\bin\Debug\netcoreapp2.0\P01.CountRealNumbers.dll
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P01.CountRealNumbers\bin\Debug\netcoreapp2.0\P01.CountRealNumbers.pdb
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P01.CountRealNumbers\obj\Debug\netcoreapp2.0\P01.CountRealNumbers.csprojAssemblyReference.cache
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P01.CountRealNumbers\obj\Debug\netcoreapp2.0\P01.CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P01.CountRealNumbers\obj\Debug\netcoreapp2.0\P01.CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P01.CountRealNumbers\obj\Debug\netcoreapp2.0\P01.CountRealNumbers.AssemblyInfo.cs
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P01.CountRealNumbers\obj\Debug\netcoreapp2.0\P01.CountRealNumbers.dll
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P01.CountRealNumbers\obj\Debug\netcoreapp2.0\P01.CountRealNumbers.pdb

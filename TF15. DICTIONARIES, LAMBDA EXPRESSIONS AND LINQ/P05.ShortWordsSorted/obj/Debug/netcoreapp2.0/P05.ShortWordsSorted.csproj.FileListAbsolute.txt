@@ -1,0 +1,10 @@
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P05.ShortWordsSorted\bin\Debug\netcoreapp2.0\P05.ShortWordsSorted.deps.json
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P05.ShortWordsSorted\bin\Debug\netcoreapp2.0\P05.ShortWordsSorted.runtimeconfig.json
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P05.ShortWordsSorted\bin\Debug\netcoreapp2.0\P05.ShortWordsSorted.runtimeconfig.dev.json
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P05.ShortWordsSorted\bin\Debug\netcoreapp2.0\P05.ShortWordsSorted.dll
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P05.ShortWordsSorted\bin\Debug\netcoreapp2.0\P05.ShortWordsSorted.pdb
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P05.ShortWordsSorted\obj\Debug\netcoreapp2.0\P05.ShortWordsSorted.csproj.CoreCompileInputs.cache
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P05.ShortWordsSorted\obj\Debug\netcoreapp2.0\P05.ShortWordsSorted.AssemblyInfoInputs.cache
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P05.ShortWordsSorted\obj\Debug\netcoreapp2.0\P05.ShortWordsSorted.AssemblyInfo.cs
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P05.ShortWordsSorted\obj\Debug\netcoreapp2.0\P05.ShortWordsSorted.dll
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P05.ShortWordsSorted\obj\Debug\netcoreapp2.0\P05.ShortWordsSorted.pdb

@@ -1,0 +1,10 @@
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P04.Largest3Numb\bin\Debug\netcoreapp2.0\P04.Largest3Numb.deps.json
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P04.Largest3Numb\bin\Debug\netcoreapp2.0\P04.Largest3Numb.runtimeconfig.json
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P04.Largest3Numb\bin\Debug\netcoreapp2.0\P04.Largest3Numb.runtimeconfig.dev.json
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P04.Largest3Numb\bin\Debug\netcoreapp2.0\P04.Largest3Numb.dll
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P04.Largest3Numb\bin\Debug\netcoreapp2.0\P04.Largest3Numb.pdb
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P04.Largest3Numb\obj\Debug\netcoreapp2.0\P04.Largest3Numb.csproj.CoreCompileInputs.cache
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P04.Largest3Numb\obj\Debug\netcoreapp2.0\P04.Largest3Numb.AssemblyInfoInputs.cache
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P04.Largest3Numb\obj\Debug\netcoreapp2.0\P04.Largest3Numb.AssemblyInfo.cs
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P04.Largest3Numb\obj\Debug\netcoreapp2.0\P04.Largest3Numb.dll
+C:\Users\oddim\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\P04.Largest3Numb\obj\Debug\netcoreapp2.0\P04.Largest3Numb.pdb
