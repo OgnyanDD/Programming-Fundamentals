@@ -1,0 +1,10 @@
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P02.PhonebookUpgrade\bin\Debug\netcoreapp2.0\P02.PhonebookUpgrade.deps.json
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P02.PhonebookUpgrade\bin\Debug\netcoreapp2.0\P02.PhonebookUpgrade.runtimeconfig.json
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P02.PhonebookUpgrade\bin\Debug\netcoreapp2.0\P02.PhonebookUpgrade.runtimeconfig.dev.json
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P02.PhonebookUpgrade\bin\Debug\netcoreapp2.0\P02.PhonebookUpgrade.dll
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P02.PhonebookUpgrade\bin\Debug\netcoreapp2.0\P02.PhonebookUpgrade.pdb
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P02.PhonebookUpgrade\obj\Debug\netcoreapp2.0\P02.PhonebookUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P02.PhonebookUpgrade\obj\Debug\netcoreapp2.0\P02.PhonebookUpgrade.AssemblyInfoInputs.cache
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P02.PhonebookUpgrade\obj\Debug\netcoreapp2.0\P02.PhonebookUpgrade.AssemblyInfo.cs
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P02.PhonebookUpgrade\obj\Debug\netcoreapp2.0\P02.PhonebookUpgrade.dll
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P02.PhonebookUpgrade\obj\Debug\netcoreapp2.0\P02.PhonebookUpgrade.pdb
