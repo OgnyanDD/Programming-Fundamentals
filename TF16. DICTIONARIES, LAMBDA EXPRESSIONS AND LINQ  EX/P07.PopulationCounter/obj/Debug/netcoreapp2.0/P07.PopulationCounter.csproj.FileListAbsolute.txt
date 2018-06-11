@@ -1,0 +1,11 @@
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P07.PopulationCounter\bin\Debug\netcoreapp2.0\P07.PopulationCounter.deps.json
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P07.PopulationCounter\bin\Debug\netcoreapp2.0\P07.PopulationCounter.runtimeconfig.json
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P07.PopulationCounter\bin\Debug\netcoreapp2.0\P07.PopulationCounter.runtimeconfig.dev.json
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P07.PopulationCounter\bin\Debug\netcoreapp2.0\P07.PopulationCounter.dll
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P07.PopulationCounter\bin\Debug\netcoreapp2.0\P07.PopulationCounter.pdb
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P07.PopulationCounter\obj\Debug\netcoreapp2.0\P07.PopulationCounter.csprojAssemblyReference.cache
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P07.PopulationCounter\obj\Debug\netcoreapp2.0\P07.PopulationCounter.csproj.CoreCompileInputs.cache
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P07.PopulationCounter\obj\Debug\netcoreapp2.0\P07.PopulationCounter.AssemblyInfoInputs.cache
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P07.PopulationCounter\obj\Debug\netcoreapp2.0\P07.PopulationCounter.AssemblyInfo.cs
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P07.PopulationCounter\obj\Debug\netcoreapp2.0\P07.PopulationCounter.dll
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P07.PopulationCounter\obj\Debug\netcoreapp2.0\P07.PopulationCounter.pdb

@@ -1,0 +1,11 @@
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P06.UserLogs\bin\Debug\netcoreapp2.0\P06.UserLogs.deps.json
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P06.UserLogs\bin\Debug\netcoreapp2.0\P06.UserLogs.runtimeconfig.json
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P06.UserLogs\bin\Debug\netcoreapp2.0\P06.UserLogs.runtimeconfig.dev.json
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P06.UserLogs\bin\Debug\netcoreapp2.0\P06.UserLogs.dll
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P06.UserLogs\bin\Debug\netcoreapp2.0\P06.UserLogs.pdb
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P06.UserLogs\obj\Debug\netcoreapp2.0\P06.UserLogs.csprojAssemblyReference.cache
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P06.UserLogs\obj\Debug\netcoreapp2.0\P06.UserLogs.csproj.CoreCompileInputs.cache
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P06.UserLogs\obj\Debug\netcoreapp2.0\P06.UserLogs.AssemblyInfoInputs.cache
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P06.UserLogs\obj\Debug\netcoreapp2.0\P06.UserLogs.AssemblyInfo.cs
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P06.UserLogs\obj\Debug\netcoreapp2.0\P06.UserLogs.dll
+C:\Users\oddim\source\repos\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P06.UserLogs\obj\Debug\netcoreapp2.0\P06.UserLogs.pdb
