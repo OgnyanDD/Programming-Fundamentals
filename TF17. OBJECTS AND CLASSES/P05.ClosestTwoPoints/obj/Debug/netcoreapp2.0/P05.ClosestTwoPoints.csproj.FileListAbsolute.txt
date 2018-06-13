@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P05.ClosestTwoPoints\bin\Debug\netcoreapp2.0\P05.ClosestTwoPoints.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P05.ClosestTwoPoints\bin\Debug\netcoreapp2.0\P05.ClosestTwoPoints.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P05.ClosestTwoPoints\bin\Debug\netcoreapp2.0\P05.ClosestTwoPoints.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P05.ClosestTwoPoints\bin\Debug\netcoreapp2.0\P05.ClosestTwoPoints.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P05.ClosestTwoPoints\bin\Debug\netcoreapp2.0\P05.ClosestTwoPoints.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P05.ClosestTwoPoints\obj\Debug\netcoreapp2.0\P05.ClosestTwoPoints.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P05.ClosestTwoPoints\obj\Debug\netcoreapp2.0\P05.ClosestTwoPoints.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P05.ClosestTwoPoints\obj\Debug\netcoreapp2.0\P05.ClosestTwoPoints.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P05.ClosestTwoPoints\obj\Debug\netcoreapp2.0\P05.ClosestTwoPoints.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P05.ClosestTwoPoints\obj\Debug\netcoreapp2.0\P05.ClosestTwoPoints.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P05.ClosestTwoPoints\obj\Debug\netcoreapp2.0\P05.ClosestTwoPoints.pdb

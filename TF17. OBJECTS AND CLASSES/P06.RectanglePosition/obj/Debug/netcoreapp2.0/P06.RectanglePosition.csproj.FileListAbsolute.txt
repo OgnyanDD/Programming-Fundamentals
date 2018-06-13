@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P06.RectanglePosition\bin\Debug\netcoreapp2.0\P06.RectanglePosition.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P06.RectanglePosition\bin\Debug\netcoreapp2.0\P06.RectanglePosition.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P06.RectanglePosition\bin\Debug\netcoreapp2.0\P06.RectanglePosition.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P06.RectanglePosition\bin\Debug\netcoreapp2.0\P06.RectanglePosition.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P06.RectanglePosition\bin\Debug\netcoreapp2.0\P06.RectanglePosition.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P06.RectanglePosition\obj\Debug\netcoreapp2.0\P06.RectanglePosition.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P06.RectanglePosition\obj\Debug\netcoreapp2.0\P06.RectanglePosition.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P06.RectanglePosition\obj\Debug\netcoreapp2.0\P06.RectanglePosition.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P06.RectanglePosition\obj\Debug\netcoreapp2.0\P06.RectanglePosition.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P06.RectanglePosition\obj\Debug\netcoreapp2.0\P06.RectanglePosition.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P06.RectanglePosition\obj\Debug\netcoreapp2.0\P06.RectanglePosition.pdb

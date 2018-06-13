@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P07.SalesReport\bin\Debug\netcoreapp2.0\P07.SalesReport.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P07.SalesReport\bin\Debug\netcoreapp2.0\P07.SalesReport.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P07.SalesReport\bin\Debug\netcoreapp2.0\P07.SalesReport.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P07.SalesReport\bin\Debug\netcoreapp2.0\P07.SalesReport.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P07.SalesReport\bin\Debug\netcoreapp2.0\P07.SalesReport.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P07.SalesReport\obj\Debug\netcoreapp2.0\P07.SalesReport.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P07.SalesReport\obj\Debug\netcoreapp2.0\P07.SalesReport.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P07.SalesReport\obj\Debug\netcoreapp2.0\P07.SalesReport.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P07.SalesReport\obj\Debug\netcoreapp2.0\P07.SalesReport.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\17. OBJECTS AND CLASSES\P07.SalesReport\obj\Debug\netcoreapp2.0\P07.SalesReport.pdb
