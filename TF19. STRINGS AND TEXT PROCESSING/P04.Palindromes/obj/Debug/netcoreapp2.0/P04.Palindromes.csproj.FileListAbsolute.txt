@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P04.Palindromes\bin\Debug\netcoreapp2.0\P04.Palindromes.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P04.Palindromes\bin\Debug\netcoreapp2.0\P04.Palindromes.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P04.Palindromes\bin\Debug\netcoreapp2.0\P04.Palindromes.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P04.Palindromes\bin\Debug\netcoreapp2.0\P04.Palindromes.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P04.Palindromes\bin\Debug\netcoreapp2.0\P04.Palindromes.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P04.Palindromes\obj\Debug\netcoreapp2.0\P04.Palindromes.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P04.Palindromes\obj\Debug\netcoreapp2.0\P04.Palindromes.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P04.Palindromes\obj\Debug\netcoreapp2.0\P04.Palindromes.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P04.Palindromes\obj\Debug\netcoreapp2.0\P04.Palindromes.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P04.Palindromes\obj\Debug\netcoreapp2.0\P04.Palindromes.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P04.Palindromes\obj\Debug\netcoreapp2.0\P04.Palindromes.pdb

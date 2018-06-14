@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P03.TextFilter\bin\Debug\netcoreapp2.0\P03.TextFilter.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P03.TextFilter\bin\Debug\netcoreapp2.0\P03.TextFilter.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P03.TextFilter\bin\Debug\netcoreapp2.0\P03.TextFilter.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P03.TextFilter\bin\Debug\netcoreapp2.0\P03.TextFilter.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P03.TextFilter\bin\Debug\netcoreapp2.0\P03.TextFilter.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P03.TextFilter\obj\Debug\netcoreapp2.0\P03.TextFilter.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P03.TextFilter\obj\Debug\netcoreapp2.0\P03.TextFilter.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P03.TextFilter\obj\Debug\netcoreapp2.0\P03.TextFilter.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P03.TextFilter\obj\Debug\netcoreapp2.0\P03.TextFilter.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P03.TextFilter\obj\Debug\netcoreapp2.0\P03.TextFilter.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P03.TextFilter\obj\Debug\netcoreapp2.0\P03.TextFilter.pdb

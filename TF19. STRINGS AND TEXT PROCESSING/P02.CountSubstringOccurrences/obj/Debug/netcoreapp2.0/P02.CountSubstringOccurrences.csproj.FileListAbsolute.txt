@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P02.CountSubstringOccurrences\bin\Debug\netcoreapp2.0\P02.CountSubstringOccurrences.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P02.CountSubstringOccurrences\bin\Debug\netcoreapp2.0\P02.CountSubstringOccurrences.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P02.CountSubstringOccurrences\bin\Debug\netcoreapp2.0\P02.CountSubstringOccurrences.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P02.CountSubstringOccurrences\bin\Debug\netcoreapp2.0\P02.CountSubstringOccurrences.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P02.CountSubstringOccurrences\bin\Debug\netcoreapp2.0\P02.CountSubstringOccurrences.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P02.CountSubstringOccurrences\obj\Debug\netcoreapp2.0\P02.CountSubstringOccurrences.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P02.CountSubstringOccurrences\obj\Debug\netcoreapp2.0\P02.CountSubstringOccurrences.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P02.CountSubstringOccurrences\obj\Debug\netcoreapp2.0\P02.CountSubstringOccurrences.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P02.CountSubstringOccurrences\obj\Debug\netcoreapp2.0\P02.CountSubstringOccurrences.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P02.CountSubstringOccurrences\obj\Debug\netcoreapp2.0\P02.CountSubstringOccurrences.pdb

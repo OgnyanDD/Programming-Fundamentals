@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P01.ReverseString\bin\Debug\netcoreapp2.0\P01.ReverseString.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P01.ReverseString\bin\Debug\netcoreapp2.0\P01.ReverseString.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P01.ReverseString\bin\Debug\netcoreapp2.0\P01.ReverseString.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P01.ReverseString\bin\Debug\netcoreapp2.0\P01.ReverseString.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P01.ReverseString\bin\Debug\netcoreapp2.0\P01.ReverseString.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P01.ReverseString\obj\Debug\netcoreapp2.0\P01.ReverseString.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P01.ReverseString\obj\Debug\netcoreapp2.0\P01.ReverseString.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P01.ReverseString\obj\Debug\netcoreapp2.0\P01.ReverseString.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P01.ReverseString\obj\Debug\netcoreapp2.0\P01.ReverseString.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P01.ReverseString\obj\Debug\netcoreapp2.0\P01.ReverseString.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\19. STRINGS AND TEXT PROCESSING\P01.ReverseString\obj\Debug\netcoreapp2.0\P01.ReverseString.pdb
