@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P03.CirclesIntersection\bin\Debug\netcoreapp2.0\P03.CirclesIntersection.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P03.CirclesIntersection\bin\Debug\netcoreapp2.0\P03.CirclesIntersection.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P03.CirclesIntersection\bin\Debug\netcoreapp2.0\P03.CirclesIntersection.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P03.CirclesIntersection\bin\Debug\netcoreapp2.0\P03.CirclesIntersection.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P03.CirclesIntersection\bin\Debug\netcoreapp2.0\P03.CirclesIntersection.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P03.CirclesIntersection\obj\Debug\netcoreapp2.0\P03.CirclesIntersection.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P03.CirclesIntersection\obj\Debug\netcoreapp2.0\P03.CirclesIntersection.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P03.CirclesIntersection\obj\Debug\netcoreapp2.0\P03.CirclesIntersection.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P03.CirclesIntersection\obj\Debug\netcoreapp2.0\P03.CirclesIntersection.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P03.CirclesIntersection\obj\Debug\netcoreapp2.0\P03.CirclesIntersection.pdb

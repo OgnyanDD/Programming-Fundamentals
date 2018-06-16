@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P06.BookLibraryModification\bin\Debug\netcoreapp2.0\P06.BookLibraryModification.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P06.BookLibraryModification\bin\Debug\netcoreapp2.0\P06.BookLibraryModification.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P06.BookLibraryModification\bin\Debug\netcoreapp2.0\P06.BookLibraryModification.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P06.BookLibraryModification\bin\Debug\netcoreapp2.0\P06.BookLibraryModification.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P06.BookLibraryModification\bin\Debug\netcoreapp2.0\P06.BookLibraryModification.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P06.BookLibraryModification\obj\Debug\netcoreapp2.0\P06.BookLibraryModification.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P06.BookLibraryModification\obj\Debug\netcoreapp2.0\P06.BookLibraryModification.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P06.BookLibraryModification\obj\Debug\netcoreapp2.0\P06.BookLibraryModification.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P06.BookLibraryModification\obj\Debug\netcoreapp2.0\P06.BookLibraryModification.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P06.BookLibraryModification\obj\Debug\netcoreapp2.0\P06.BookLibraryModification.pdb

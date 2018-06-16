@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P02.AdvertisementMessage\bin\Debug\netcoreapp2.0\P02.AdvertisementMessage.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P02.AdvertisementMessage\bin\Debug\netcoreapp2.0\P02.AdvertisementMessage.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P02.AdvertisementMessage\bin\Debug\netcoreapp2.0\P02.AdvertisementMessage.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P02.AdvertisementMessage\bin\Debug\netcoreapp2.0\P02.AdvertisementMessage.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P02.AdvertisementMessage\bin\Debug\netcoreapp2.0\P02.AdvertisementMessage.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P02.AdvertisementMessage\obj\Debug\netcoreapp2.0\P02.AdvertisementMessage.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P02.AdvertisementMessage\obj\Debug\netcoreapp2.0\P02.AdvertisementMessage.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P02.AdvertisementMessage\obj\Debug\netcoreapp2.0\P02.AdvertisementMessage.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P02.AdvertisementMessage\obj\Debug\netcoreapp2.0\P02.AdvertisementMessage.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P02.AdvertisementMessage\obj\Debug\netcoreapp2.0\P02.AdvertisementMessage.pdb

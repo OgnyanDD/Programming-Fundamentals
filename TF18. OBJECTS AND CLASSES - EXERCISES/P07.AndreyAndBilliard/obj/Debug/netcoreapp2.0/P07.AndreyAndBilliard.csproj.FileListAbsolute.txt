@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P07.AndreyAndBilliard\bin\Debug\netcoreapp2.0\P07.AndreyAndBilliard.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P07.AndreyAndBilliard\bin\Debug\netcoreapp2.0\P07.AndreyAndBilliard.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P07.AndreyAndBilliard\bin\Debug\netcoreapp2.0\P07.AndreyAndBilliard.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P07.AndreyAndBilliard\bin\Debug\netcoreapp2.0\P07.AndreyAndBilliard.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P07.AndreyAndBilliard\bin\Debug\netcoreapp2.0\P07.AndreyAndBilliard.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P07.AndreyAndBilliard\obj\Debug\netcoreapp2.0\P07.AndreyAndBilliard.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P07.AndreyAndBilliard\obj\Debug\netcoreapp2.0\P07.AndreyAndBilliard.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P07.AndreyAndBilliard\obj\Debug\netcoreapp2.0\P07.AndreyAndBilliard.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P07.AndreyAndBilliard\obj\Debug\netcoreapp2.0\P07.AndreyAndBilliard.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\18. OBJECTS AND CLASSES - EXERCISES\P07.AndreyAndBilliard\obj\Debug\netcoreapp2.0\P07.AndreyAndBilliard.pdb
