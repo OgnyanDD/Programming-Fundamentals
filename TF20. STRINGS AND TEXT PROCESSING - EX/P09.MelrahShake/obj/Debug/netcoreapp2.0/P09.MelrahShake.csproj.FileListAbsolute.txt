@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P09.MelrahShake\bin\Debug\netcoreapp2.0\P09.MelrahShake.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P09.MelrahShake\bin\Debug\netcoreapp2.0\P09.MelrahShake.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P09.MelrahShake\bin\Debug\netcoreapp2.0\P09.MelrahShake.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P09.MelrahShake\bin\Debug\netcoreapp2.0\P09.MelrahShake.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P09.MelrahShake\bin\Debug\netcoreapp2.0\P09.MelrahShake.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P09.MelrahShake\obj\Debug\netcoreapp2.0\P09.MelrahShake.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P09.MelrahShake\obj\Debug\netcoreapp2.0\P09.MelrahShake.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P09.MelrahShake\obj\Debug\netcoreapp2.0\P09.MelrahShake.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P09.MelrahShake\obj\Debug\netcoreapp2.0\P09.MelrahShake.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P09.MelrahShake\obj\Debug\netcoreapp2.0\P09.MelrahShake.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P09.MelrahShake\obj\Debug\netcoreapp2.0\P09.MelrahShake.pdb

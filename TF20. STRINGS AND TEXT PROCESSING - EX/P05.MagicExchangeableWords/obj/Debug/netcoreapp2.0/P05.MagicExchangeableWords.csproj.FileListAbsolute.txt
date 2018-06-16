@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\P05.MagicExchangeableWords.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\P05.MagicExchangeableWords.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\P05.MagicExchangeableWords.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\P05.MagicExchangeableWords.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\P05.MagicExchangeableWords.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\P05.MagicExchangeableWords.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\P05.MagicExchangeableWords.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\P05.MagicExchangeableWords.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\P05.MagicExchangeableWords.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\P05.MagicExchangeableWords.pdb

@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P07.MultiplyBigNumber\bin\Debug\netcoreapp2.0\P07.MultiplyBigNumber.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P07.MultiplyBigNumber\bin\Debug\netcoreapp2.0\P07.MultiplyBigNumber.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P07.MultiplyBigNumber\bin\Debug\netcoreapp2.0\P07.MultiplyBigNumber.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P07.MultiplyBigNumber\bin\Debug\netcoreapp2.0\P07.MultiplyBigNumber.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P07.MultiplyBigNumber\bin\Debug\netcoreapp2.0\P07.MultiplyBigNumber.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P07.MultiplyBigNumber\obj\Debug\netcoreapp2.0\P07.MultiplyBigNumber.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P07.MultiplyBigNumber\obj\Debug\netcoreapp2.0\P07.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P07.MultiplyBigNumber\obj\Debug\netcoreapp2.0\P07.MultiplyBigNumber.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P07.MultiplyBigNumber\obj\Debug\netcoreapp2.0\P07.MultiplyBigNumber.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P07.MultiplyBigNumber\obj\Debug\netcoreapp2.0\P07.MultiplyBigNumber.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\20. STRINGS AND TEXT PROCESSING - EX\P07.MultiplyBigNumber\obj\Debug\netcoreapp2.0\P07.MultiplyBigNumber.pdb
