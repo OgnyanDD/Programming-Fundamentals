@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P10.SrabskoUnleashed\obj\Debug\netcoreapp2.0\P10.SrabskoUnleashed.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P10.SrabskoUnleashed\obj\Debug\netcoreapp2.0\P10.SrabskoUnleashed.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P10.SrabskoUnleashed\obj\Debug\netcoreapp2.0\P10.SrabskoUnleashed.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P10.SrabskoUnleashed\obj\Debug\netcoreapp2.0\P10.SrabskoUnleashed.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P10.SrabskoUnleashed\bin\Debug\netcoreapp2.0\P10.SrabskoUnleashed.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P10.SrabskoUnleashed\bin\Debug\netcoreapp2.0\P10.SrabskoUnleashed.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P10.SrabskoUnleashed\bin\Debug\netcoreapp2.0\P10.SrabskoUnleashed.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P10.SrabskoUnleashed\bin\Debug\netcoreapp2.0\P10.SrabskoUnleashed.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P10.SrabskoUnleashed\bin\Debug\netcoreapp2.0\P10.SrabskoUnleashed.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P10.SrabskoUnleashed\obj\Debug\netcoreapp2.0\P10.SrabskoUnleashed.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\16. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ  EX\P10.SrabskoUnleashed\obj\Debug\netcoreapp2.0\P10.SrabskoUnleashed.pdb
