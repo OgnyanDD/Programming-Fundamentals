@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P07.QueryMess\bin\Debug\netcoreapp2.0\P07.QueryMess.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P07.QueryMess\bin\Debug\netcoreapp2.0\P07.QueryMess.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P07.QueryMess\bin\Debug\netcoreapp2.0\P07.QueryMess.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P07.QueryMess\bin\Debug\netcoreapp2.0\P07.QueryMess.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P07.QueryMess\bin\Debug\netcoreapp2.0\P07.QueryMess.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P07.QueryMess\obj\Debug\netcoreapp2.0\P07.QueryMess.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P07.QueryMess\obj\Debug\netcoreapp2.0\P07.QueryMess.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P07.QueryMess\obj\Debug\netcoreapp2.0\P07.QueryMess.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P07.QueryMess\obj\Debug\netcoreapp2.0\P07.QueryMess.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P07.QueryMess\obj\Debug\netcoreapp2.0\P07.QueryMess.pdb

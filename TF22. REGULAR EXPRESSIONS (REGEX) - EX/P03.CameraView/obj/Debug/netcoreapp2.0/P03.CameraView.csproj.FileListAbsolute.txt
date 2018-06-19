@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P03.CameraView\bin\Debug\netcoreapp2.0\P03.CameraView.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P03.CameraView\bin\Debug\netcoreapp2.0\P03.CameraView.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P03.CameraView\bin\Debug\netcoreapp2.0\P03.CameraView.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P03.CameraView\bin\Debug\netcoreapp2.0\P03.CameraView.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P03.CameraView\bin\Debug\netcoreapp2.0\P03.CameraView.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P03.CameraView\obj\Debug\netcoreapp2.0\P03.CameraView.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P03.CameraView\obj\Debug\netcoreapp2.0\P03.CameraView.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P03.CameraView\obj\Debug\netcoreapp2.0\P03.CameraView.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P03.CameraView\obj\Debug\netcoreapp2.0\P03.CameraView.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P03.CameraView\obj\Debug\netcoreapp2.0\P03.CameraView.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P03.CameraView\obj\Debug\netcoreapp2.0\P03.CameraView.pdb

@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P05.KeyReplacer\bin\Debug\netcoreapp2.0\P05.KeyReplacer.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P05.KeyReplacer\bin\Debug\netcoreapp2.0\P05.KeyReplacer.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P05.KeyReplacer\bin\Debug\netcoreapp2.0\P05.KeyReplacer.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P05.KeyReplacer\bin\Debug\netcoreapp2.0\P05.KeyReplacer.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P05.KeyReplacer\bin\Debug\netcoreapp2.0\P05.KeyReplacer.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P05.KeyReplacer\obj\Debug\netcoreapp2.0\P05.KeyReplacer.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P05.KeyReplacer\obj\Debug\netcoreapp2.0\P05.KeyReplacer.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P05.KeyReplacer\obj\Debug\netcoreapp2.0\P05.KeyReplacer.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P05.KeyReplacer\obj\Debug\netcoreapp2.0\P05.KeyReplacer.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P05.KeyReplacer\obj\Debug\netcoreapp2.0\P05.KeyReplacer.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\22. REGULAR EXPRESSIONS (REGEX) - EX\P05.KeyReplacer\obj\Debug\netcoreapp2.0\P05.KeyReplacer.pdb
