@@ -1,0 +1,11 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\21. REGULAR EXPRESSIONS (REGEX)\P01.MatchFullName\bin\Debug\netcoreapp2.0\P01.MatchFullName.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\21. REGULAR EXPRESSIONS (REGEX)\P01.MatchFullName\bin\Debug\netcoreapp2.0\P01.MatchFullName.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\21. REGULAR EXPRESSIONS (REGEX)\P01.MatchFullName\bin\Debug\netcoreapp2.0\P01.MatchFullName.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\21. REGULAR EXPRESSIONS (REGEX)\P01.MatchFullName\bin\Debug\netcoreapp2.0\P01.MatchFullName.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\21. REGULAR EXPRESSIONS (REGEX)\P01.MatchFullName\bin\Debug\netcoreapp2.0\P01.MatchFullName.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\21. REGULAR EXPRESSIONS (REGEX)\P01.MatchFullName\obj\Debug\netcoreapp2.0\P01.MatchFullName.csprojAssemblyReference.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\21. REGULAR EXPRESSIONS (REGEX)\P01.MatchFullName\obj\Debug\netcoreapp2.0\P01.MatchFullName.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\21. REGULAR EXPRESSIONS (REGEX)\P01.MatchFullName\obj\Debug\netcoreapp2.0\P01.MatchFullName.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\21. REGULAR EXPRESSIONS (REGEX)\P01.MatchFullName\obj\Debug\netcoreapp2.0\P01.MatchFullName.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\21. REGULAR EXPRESSIONS (REGEX)\P01.MatchFullName\obj\Debug\netcoreapp2.0\P01.MatchFullName.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\21. REGULAR EXPRESSIONS (REGEX)\P01.MatchFullName\obj\Debug\netcoreapp2.0\P01.MatchFullName.pdb
