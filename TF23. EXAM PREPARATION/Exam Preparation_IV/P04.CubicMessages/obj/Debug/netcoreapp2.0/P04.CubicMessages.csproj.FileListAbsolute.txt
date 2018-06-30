@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\Old Exams\Exam Preparation IV\P04.CubicMessages\bin\Debug\netcoreapp2.0\P04.CubicMessages.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\Old Exams\Exam Preparation IV\P04.CubicMessages\bin\Debug\netcoreapp2.0\P04.CubicMessages.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\Old Exams\Exam Preparation IV\P04.CubicMessages\bin\Debug\netcoreapp2.0\P04.CubicMessages.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\Old Exams\Exam Preparation IV\P04.CubicMessages\bin\Debug\netcoreapp2.0\P04.CubicMessages.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\Old Exams\Exam Preparation IV\P04.CubicMessages\bin\Debug\netcoreapp2.0\P04.CubicMessages.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\Old Exams\Exam Preparation IV\P04.CubicMessages\obj\Debug\netcoreapp2.0\P04.CubicMessages.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\Old Exams\Exam Preparation IV\P04.CubicMessages\obj\Debug\netcoreapp2.0\P04.CubicMessages.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\Old Exams\Exam Preparation IV\P04.CubicMessages\obj\Debug\netcoreapp2.0\P04.CubicMessages.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\Old Exams\Exam Preparation IV\P04.CubicMessages\obj\Debug\netcoreapp2.0\P04.CubicMessages.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\Old Exams\Exam Preparation IV\P04.CubicMessages\obj\Debug\netcoreapp2.0\P04.CubicMessages.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.CharityMarathon", "P01.CharityMarathon\P01.CharityMarathon.csproj", "{48470E7B-2468-4BAD-A54A-236AD787099D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.RoliTheCoder", "P04.RoliTheCoder\P04.RoliTheCoder.csproj", "{66D19FDD-A7F4-44E0-A628-EE06DC23DC0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48470E7B-2468-4BAD-A54A-236AD787099D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48470E7B-2468-4BAD-A54A-236AD787099D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48470E7B-2468-4BAD-A54A-236AD787099D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48470E7B-2468-4BAD-A54A-236AD787099D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D19FDD-A7F4-44E0-A628-EE06DC23DC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D19FDD-A7F4-44E0-A628-EE06DC23DC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D19FDD-A7F4-44E0-A628-EE06DC23DC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D19FDD-A7F4-44E0-A628-EE06DC23DC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C50AEE-8D85-442D-943A-7A3521A02687}
+	EndGlobalSection
+EndGlobal
