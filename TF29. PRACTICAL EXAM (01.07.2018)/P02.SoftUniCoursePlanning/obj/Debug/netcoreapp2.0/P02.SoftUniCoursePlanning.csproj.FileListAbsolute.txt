@@ -1,0 +1,10 @@
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\29. PRACTICAL EXAM (01.07.2018)\P02.SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\P02.SoftUniCoursePlanning.deps.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\29. PRACTICAL EXAM (01.07.2018)\P02.SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\P02.SoftUniCoursePlanning.runtimeconfig.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\29. PRACTICAL EXAM (01.07.2018)\P02.SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\P02.SoftUniCoursePlanning.runtimeconfig.dev.json
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\29. PRACTICAL EXAM (01.07.2018)\P02.SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\P02.SoftUniCoursePlanning.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\29. PRACTICAL EXAM (01.07.2018)\P02.SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\P02.SoftUniCoursePlanning.pdb
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\29. PRACTICAL EXAM (01.07.2018)\P02.SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\P02.SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\29. PRACTICAL EXAM (01.07.2018)\P02.SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\P02.SoftUniCoursePlanning.AssemblyInfoInputs.cache
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\29. PRACTICAL EXAM (01.07.2018)\P02.SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\P02.SoftUniCoursePlanning.AssemblyInfo.cs
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\29. PRACTICAL EXAM (01.07.2018)\P02.SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\P02.SoftUniCoursePlanning.dll
+E:\Programming Courses\SoftUni\Programming Fundamentals\Code\29. PRACTICAL EXAM (01.07.2018)\P02.SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\P02.SoftUniCoursePlanning.pdb
