@@ -33,4 +33,4 @@ Along with the programming techniques, the algorithmic thinking and problem solv
 :two::three: **FILES AND EXCEPTIONS** | :two::four: **GIT AND GITHUB**
 :two::five: **GIT AND GITHUB EXERCIESES** | :two::six: **EXAM PREPARATION I**
 :two::seven: **EXAM PREPARATION II** | :two::eight: **EXAM PREPARATION III**
-:two::nine: **PRACTICAL EXAM** | :three::zero: **RETAKE EXAM**
+:two::nine: [**PRACTICAL EXAM**](https://github.com/OgnyanDD/Programming-Fundamentals/tree/master/TF29.%20PRACTICAL%20EXAM%20(01.07.2018)) | :three::zero: **RETAKE EXAM**
