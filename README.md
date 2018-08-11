@@ -1,7 +1,7 @@
 # [PROGRAMING FUNDAMENTALS](https://softuni.bg/trainings/1939/programming-fundamentals-may-2018)
 ## :large_blue_diamond: ABOUT THE COURSE: ##
 
-The **“Programming Fundamentals”** course extends the previously gained basic coding skills from the **“Programming Basics”** course at the [SoftUni](https://softuni.org/) and adds additional knowledge and practical programming skills.
+The **“Programming Fundamentals”** course extends the previously gained basic coding skills from the [**“Programming Basics”**](https://softuni.bg/trainings/1873/programming-basics-with-java-february-2018#lesson-7497) course at the [SoftUni](https://softuni.org/) and adds additional knowledge and practical programming skills.
 
 The course covers understanding the basic data types in programming, extracting pieces of code into methods with parameters and return value, using the debugger to trace the program execution and find bugs, processing sequences of elements using arrays and lists, using collections, working with matrices for processing tabular data, working with dictionaries to map keys to values, using strings for text processing, and the basics of working with classes and objects, using API classes and defining simple classes.
 
