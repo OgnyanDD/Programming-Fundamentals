@@ -31,6 +31,6 @@ Along with the programming techniques, the algorithmic thinking and problem solv
 :one::nine: [**STRINGS AND TEXT PROCESSING**](https://github.com/OgnyanDD/Programming-Fundamentals/tree/master/TF19.%20STRINGS%20AND%20TEXT%20PROCESSING) | :two::zero: [**STRINGS AND TEXT PROCESSING - EXERCISES**](https://github.com/OgnyanDD/Programming-Fundamentals/tree/master/TF20.%20STRINGS%20AND%20TEXT%20PROCESSING%20-%20EX)
 :two::one: [**REGULAR EXPRESSIONS (REGEX)**](https://github.com/OgnyanDD/Programming-Fundamentals/tree/master/TF21.%20REGULAR%20EXPRESSIONS%20(REGEX)) | :two::two: [**REGULAR EXPRESSIONS (REGEX) - EXERCISES**](https://github.com/OgnyanDD/Programming-Fundamentals/tree/master/TF22.%20REGULAR%20EXPRESSIONS%20(REGEX)%20-%20EX)
 :two::three: **FILES AND EXCEPTIONS** | :two::four: **GIT AND GITHUB**
-:two::five: **GIT AND GITHUB EXERCIESES** | :two::six: **EXAM PREPARATION I**
+:two::five: **GIT AND GITHUB EXERCIESES** | :two::six: [**EXAM PREPARATION I**](https://github.com/OgnyanDD/Programming-Fundamentals/tree/master/TF26.%20EXAM%20PREPARATION%20I)
 :two::seven: **EXAM PREPARATION II** | :two::eight: **EXAM PREPARATION III**
 :two::nine: [**PRACTICAL EXAM**](https://github.com/OgnyanDD/Programming-Fundamentals/tree/master/TF29.%20PRACTICAL%20EXAM%20(01.07.2018)) | :three::zero: **RETAKE EXAM**
